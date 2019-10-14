@@ -151,6 +151,6 @@ On the [Microsoft Dynamics 365 YouTube channel](https://www.youtube.com/channel/
 
 ## FastTrack Tech Talks
 
-[FastTrack Tech Talks](https://community.dynamics.com/365/b/techtalks?c=Finance%20and%20Operations) focus on providing technical depth and best practices that provide customers and partners with detailed knowledge that's specific to the subject areas.
+[FastTrack Tech Talks](https://community.dynamics.com/365/b/techtalks) focus on providing technical depth and best practices that provide customers and partners with detailed knowledge that's specific to the subject areas.
 
 
